@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋🏽, I'm Furkan Kadir</h1>
 
-- 🌱 I am currently developing applications on the backend using **Django Rest Framework (DRF)**, and I am also learning **React** for the frontend.
+- 🌱 I am currently developing applications on the backend using **Django Rest Framework**, on the frontend side, I develop user interfaces using **nextjs** and **reactjs**.
 
 - 💬 Ask me about **Javascript, React.js, Python, Django & DRF**
 
